@@ -1,0 +1,315 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border:0px;
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+.conter1{
+    background: white;
+    width: 100%;
+}
+.conter1 .headd{
+    padding: 15px 35px;
+}
+.conter1 .car span{
+    font-weight: bold;
+}
+.conter1 .car{
+    font-size: 30px;
+}
+.conter1 .car>a{
+    color: darkgray;
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.conter1 .buy>li{
+    float: left;
+    margin: 0px 50px;
+}
+.conter1 .buy>li>a{
+    font-size: 16px;
+}
+.conter1 .new>ul{
+    float: right;
+    margin-right: 30px;
+}
+.conter1 .new>ul>li{
+    float: left;
+    margin: 0px 10px;
+}
+.conter1 .new>ul>li>a>img{
+    width: 30px;
+    height: 30px;
+}
+.conter1 .wefot{
+    padding: 80px 50px 30px;
+    background: url(../images/1.png) no-repeat;
+    height: 645px;
+    background-size: 1000px;
+    background-position: 250px 150px;
+}
+.conter1 .wefot .nect{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 0px;
+}
+.conter1 .wefot .drema{
+    border-bottom: 1px solid darkgray;
+    padding: 50px 10px 10px;
+    width: 40%;
+    color: darkgray;
+}
+.conter1 .wefot .drema span{
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+}
+.conter1 .topia{
+    background-color: #383838;
+    border: 1px solid rebeccapurple;
+    color: white;
+    padding: 30px;
+}
+.conter1 .topia::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.conter1 .topia ul{
+    float: left;
+    padding: 0px 60px;
+}
+.conter1 .topia ul>li>a{
+    color: white;
+    font-size: 14px;
+    line-height: 25px;
+}
+.conter1 .topia .crtto{
+    font-size: 36px;
+    line-height: 130px;
+    padding-left: 80px;
+}
+.conter1 .topia .lvik>div>a>img{
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px;
+}
+.conter1 .topia .lvik{
+    margin-top: 110px;
+}
+.conter1 .topia .dring{
+    float: right;
+}
+.conter1 .xiala input{
+    width: 20%;
+    margin: 15px 10px;
+    float: left;
+}
+.conter1 .audi2{
+    font-size: 18px;
+    font-weight: bold;
+    color: darkgray;
+    margin-left: 105px;
+    width: 50%;
+}
+.conter1 .audi3{
+    width: 50%;
+}
+.conter1 .audi2 a{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.conter1 .audi2 span{
+    border-bottom:1px solid orange;
+    padding: 5px 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    color: black;
+}
+.conter1 .sortss span{
+    float: right;
+    font-size: 12px;
+    color: darkgray;
+    margin-top: 25px;
+}
+.conter1 .haoche img{
+    width: 70%;
+    border-radius: 20px;
+}
+.conter1 .haoche{
+    margin-top: 20px;
+    color: black;
+    
+}
+.conter1 .qinqin{
+    width: 100%;
+}
+.conter1 .qinqin::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.conter1 .xiangll{
+    width: 70%;
+    margin-left:40px ;
+    float: left;
+}
+.conter1 .xiangll .biaobiao{
+    border-bottom: 2px solid black;
+    padding-bottom: 25px;
+    margin-bottom: 50px;
+    width: 82%;
+}
+.conter1 .xiangll .biaobiao>.table>tbody>tr>td, .conter1 .xiangll .biaobiao>.table>tbody>tr>th, .conter1 .xiangll .biaobiao>.table>tfoot>tr>td, .conter1 .xiangll .biaobiao>.table>tfoot>tr>th, .conter1 .xiangll .biaobiao>.table>thead>tr>td, .conter1 .xiangll .biaobiao>.table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 0px;
+}
+.conter1 .xiangll caption{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom:25px ;
+    color: black;
+}
+.conter1 .xiangll .woudf>img{
+    padding: 25px 0px;
+    width: 80%;
+}
+.conter1 .haoche:hover{
+    text-decoration: none;
+}
+.conter1 .total{
+    width: 20%;
+    float: left;
+    box-shadow: 1px 1px 1px 1px darkgray;
+    padding: 40px;
+}
+.conter1 .inttqin{
+    width: 100%;
+}
+.conter1 .inttqin2{
+    width: 100%;
+}
+.conter1 .inttqin>div{
+    float: left;
+    padding: 0px 24px;
+}
+.conter1 .inttqin .intt{
+    border-right: 2px solid black;
+}
+.conter1 .inttqin .intt>h3{
+    color: red;
+}
+.conter1 .inttqin .intt2>h3{
+    color: deepskyblue;
+}
+.conter1 .inttqin::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.conter1 .inttqin{
+    padding-bottom: 10px;
+    
+}
+.conter1 .intt3 h3{
+    padding-top: 20px;
+    text-align: center;
+    border-top: 2px solid black;
+
+}
+.conter1 .intt3 input{
+    margin: 30px 0px;
+    height: 80px;
+}
+.conter1 .intt3 button{
+    width: 100%;
+    height: 40px;
+    margin: 15px 0px;
+}
+.conter1 .intt3 button a{
+    color: white;
+}
+.meizu17tu{
+    width: 45%;
+    height:400px;
+    position: relative;
+    margin: 30px 0px;
+    margin-left: 20px;
+}
+.meidatu .hideei{
+    display: none;
+}
+.meidatu img{
+    width: 100%;
+    border-radius: 20px;
+}
+.meidatu p{
+    position: absolute;
+    top: 0px ;
+    left: 0px;
+}
+.meixiaotu{
+    width: 85%;
+    display: block;
+}
+.meixiaotu span{
+    width: 30%;
+    float: left;
+    padding: 0px 15px;
+}
+.meixiaotu span img{
+    width: 100%;
+    border-radius: 20px;
+}
+.parteer{
+    font-weight: bold;
+    padding-left: 25px;
+}
+@media screen and (max-width:767px){
+    .meizu17tu{
+        width: 100%;
+        height:290px;
+        position: relative;
+        margin: 0px 0px 30px;
+        padding: 0px;
+    } 
+    .conter1 .meizumei2{
+        width: 100%;
+        padding: 0px;
+    }
+    .meidatu img{
+        width: 100%;
+        border-radius: 0px;
+    }
+    .conter1 .qinqin{
+        padding: 0px;
+    }
+    .conter1 .xiangll {
+        width: 100%;
+        margin-left: 0px;
+        float: none;
+    }
+    .conter1 .xiangll .woudf>img {
+        padding: 15px 20px;
+        width: 100%;
+    }
+    .conter1 .xiangll .biaobiao {
+        border: 0px;
+        padding-bottom: 25px;
+        margin-bottom: 50px;
+        width: 100%;
+        padding: 0px 20px ;
+    }
+    .conter1 .haoche img {
+        width: 100%;
+        border-radius: 20px;
+        padding-bottom:20px;
+    }
+}

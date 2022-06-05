@@ -1,0 +1,327 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border:0px;
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+.conter1{
+    background: white;
+    width: 100%;
+}
+.conter1 .headd{
+    padding: 15px 35px;
+}
+.conter1 .car span{
+    font-weight: bold;
+}
+.conter1 .car{
+    font-size: 30px;
+}
+
+.conter1 .buy>li{
+    float: left;
+    margin: 0px 50px;
+}
+.conter1 .buy>li>a{
+    font-size: 16px;
+}
+.conter1 .new>ul{
+    float: right;
+    margin-right: 30px;
+}
+.conter1 .new>ul>li{
+    float: left;
+    margin: 0px 10px;
+}
+.conter1 .new>ul>li>a>img{
+    width: 30px;
+    height: 30px;
+}
+.conter1 .wefot{
+    padding: 80px 50px 30px;
+    background: url(../images/1.png) no-repeat;
+    height: 645px;
+    background-size: 1000px;
+    background-position: 250px 150px;
+}
+.conter1 .wefot .nect{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 0px;
+}
+.conter1 .wefot .drema{
+    border-bottom: 1px solid darkgray;
+    padding: 50px 10px 10px;
+    width: 40%;
+    color: darkgray;
+    position: relative;
+}
+.conter1 .wefot .drema span{
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+}
+.conter1 .wefot .drema input{
+    width: 50%;float: left;
+}
+.conter1 .wefot .drema>a{
+    color: darkgray;
+    position: absolute;
+    left: 190px;
+    top: 60px;
+}
+.conter1 .wefot .drema>a:hover{
+    text-decoration: none;
+}
+.conter1 .wefot .drema::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.conter1 .topia{
+    background-color: #383838;
+    border: 1px solid rebeccapurple;
+    color: white;
+    padding: 30px;
+}
+.conter1 .topia::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.conter1 .topia ul{
+    float: left;
+    padding: 0px 60px;
+}
+.conter1 .topia ul>li>a{
+    color: white;
+    font-size: 14px;
+    line-height: 25px;
+}
+.conter1 .topia .crtto{
+    font-size: 36px;
+    line-height: 130px;
+    padding-left: 80px;
+}
+.conter1 .topia .lvik>div>a>img{
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px;
+}
+.conter1 .topia .lvik{
+    margin-top: 110px;
+}
+.conter1 .topia .dring{
+    float: right;
+}
+.conter1 .signgn>h1{
+    margin-bottom: 25px;
+}
+.conter1 .signgn input{
+    height: 40px;
+    margin: 20px 0px;
+}
+.conter1 .signgn button{
+    width: 100%;height: 40px;
+    margin: 20px 0px;
+}
+.conter1 .signgn>p{
+    text-align: center;
+    padding: 25px 0px;
+}
+.conter1 .signgn>div{
+    text-align: center;
+    color: darkgray;
+}
+.conter1 .signgn .haves{
+    padding: 50px 0px;
+    color: darkgray;
+    font-size: 12px;
+}
+.conter1 .signgn .haves>span{
+    font-size: 14px;
+    color: orange;
+    padding: 0px 10px;
+    border-bottom: 1px solid orange;
+}
+.conter1 .signgn>p .bbffd{
+    text-align: left;
+    color: darkgray;
+    float: left;
+}
+.conter1 .signgn .sersercc{
+    padding: 15px;
+    box-shadow: 1px 1px 1px 1px ;
+}
+.conter1 .signgn .scfy{
+    width: 40%;
+    float: left;
+    margin-top: 0px;
+}
+.conter1 .signgn .scfy2{
+    width: 40%;
+    float: right;
+    margin-top: 0px;
+}
+.conter1 .modal-header{
+    border: 0px;
+}
+.conter1 .modal-body>ul>li>a{
+    font-weight: bold;
+    line-height: 50px;
+    font-size: 16px;
+}
+.conter1 .modal-body>ul{
+    border-bottom: 1px solid darkgray;
+}
+.conter1 .car2{
+    font-size: 25px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 170px 0px 60px;
+}
+.conter1 .car2 span{
+    font-weight: bold;
+}
+.conter1 .wefot2{
+    padding: 25px;
+}
+@media screen and (max-width:767px) {
+    .conter1 .new>ul>li{
+        float: left;
+        margin: 5px;
+    }
+    .conter1 .new>ul{
+        float: right;
+        margin-right: 0px;
+    }
+    .conter1 .wefot{
+        padding: 60px 50px 30px;
+        background: url(../images/1.png) no-repeat;
+        height: 645px;
+        background-size: 1000px;
+        background-position: 250px 150px;
+    }
+    .conter1 .wefot2{
+        padding: 25px;
+    }
+    .conter1 .modal-header{
+        border: 0px;
+    }
+    .conter1 .modal-body>ul>li>a{
+        font-weight: bold;
+        line-height: 50px;
+        font-size: 16px;
+    }
+    .conter1 .modal-body>ul{
+        border-bottom: 1px solid darkgray;
+    }
+    .conter1 .car2{
+        font-size: 25px;
+        margin-top: 5px;
+        text-align: center;
+        padding: 170px 0px 60px;
+    }
+    .conter1 .car2 span{
+        font-weight: bold;
+    }
+    .conter1 .modal-header>h4>span{
+        margin-left: 20px;
+    }
+    .conter1 .wefot .drema{
+        border-bottom: none;
+        padding: 50px 10px 10px;
+        width: 40%;
+        color: darkgray;
+    }
+    .conter1 .wefot .drema span a{
+        float: left;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .conter1 .wefot .drema span{
+        border-bottom: 1px solid black;
+        padding-bottom: 5px;
+        float: left;
+    }
+    .conter1 .wefot{
+        padding: 80px 50px 30px;
+        background: url(../images/1.png) no-repeat;
+        height: 645px;
+        background-size: 1000px;
+        background-position: -50px 150px;
+    }
+    .conter1 .topia ul{
+        padding: 0px;
+        width: 100%;
+    }
+    .conter1 .topia ul .cusleft{
+        float: left;
+        margin: 0px 10px;
+    }
+    .conter1 .topia ul .cusright{
+        float: right;
+        margin: 0px 10px;
+    }
+    .conter1 .topia{
+        background-color: white;
+        border: none;
+        color: darkgray;
+        padding: 0px;
+    }
+    .conter1 .topia ul>li>a{
+        color: #777;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .conter1 .car .glyphicon{
+        font-size: 20px;
+        margin-right: 5px;
+        float: left;
+        margin-top: 5px;
+    }
+    .conter1 .car{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .conter1 .signgn>p>a{
+        text-align: left;
+    }
+    .conter1 .signgn>h1{
+        margin-bottom: 25px;
+    }
+    .conter1 .signgn input{
+        height: 40px;
+        margin: 20px 0px;
+    }
+    .conter1 .signgn button{
+        width: 100%;height: 40px;
+        margin: 20px 0px;
+    }
+    .conter1 .signgn>p{
+        text-align: center;
+        padding: 25px 0px;
+    }
+    .conter1 .signgn>div{
+        text-align: center;
+        color: darkgray;
+    }
+    .conter1 .signgn .haves{
+        padding: 50px 0px;
+        color: darkgray;
+        font-size: 12px;
+    }
+    .conter1 .signgn .haves>span{
+        font-size: 14px;
+        color: orange;
+        padding: 0px 10px;
+        border-bottom: 1px solid orange;
+    }
+    element.style  {
+        margin-right: 0px;
+    }
+}
+
